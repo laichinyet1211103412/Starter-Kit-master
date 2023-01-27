@@ -36,15 +36,11 @@ For example:
 1. Randomly generate game board.
 2. *add more*
 
-### Steve Rogers
+### Nicholas Tan Zhi Xuan 
 
 1. Zombie movement and attack behaviour.
 2. *add more*
 
-### Dr. Strange
-
-1. Implement all game objects.
-2. *add more*
 
 ## Problems Encountered & Solutions
 
